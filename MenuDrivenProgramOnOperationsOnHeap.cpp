@@ -74,7 +74,6 @@ int main()
     {
         cin>>arr[i];
     }
-    hs = n;
     int pos,key;
     build_maxheap(arr,n);
     while(true){

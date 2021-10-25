@@ -10,3 +10,5 @@ Operations on heaps :
 1. Extract max
 2. Insert element
 3. Increase key
+
+Also, this repository contains code for Heap Sort... :)
